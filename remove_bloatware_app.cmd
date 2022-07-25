@@ -1,0 +1,23 @@
+adb shell pm uninstall --user 0 com.coloros.compass2
+adb shell pm uninstall --user 0 com.weather.Weather
+adb shell pm uninstall --user 0 com.coloros.weather.service
+adb shell pm uninstall --user 0 com.coloros.weather2
+adb shell pm uninstall --user 0 com.coloros.widget.smallweather
+adb shell pm uninstall --user 0 com.oppo.music
+adb shell pm uninstall --user 0 com.coloros.screenrecorder
+adb shell pm uninstall --user 0 com.coloros.soundrecorder
+adb shell pm uninstall --user 0 com.android.fmradio
+adb shell pm uninstall --user 0 com.facebook.appmanager
+adb shell pm uninstall --user 0 com.coloros.phonemanager
+adb shell pm uninstall --user 0 com.google.android.apps.maps
+adb shell pm uninstall --user 0 com.google.android.googlequicksearchbox
+adb shell pm uninstall --user 0 com.android.chrome
+adb shell pm uninstall --user 0 com.coloros.video
+adb shell pm uninstall --user 0 com.google.android.youtube
+adb shell pm uninstall --user 0 com.google.android.gm
+adb shell pm uninstall --user 0 com.google.android.keep
+adb shell pm uninstall --user 0 com.coloros.backuprestore
+adb shell pm uninstall --user 0 com.google.android.calendar
+adb shell pm uninstall --user 0 com.google.android.projection.gearhead
+adb shell pm uninstall --user 0 com.coloros.gamespace
+pause
